@@ -13,6 +13,7 @@ public class AnimalObjects {
         dog1.eat();
 
         dog1.bark();
+        dog1.drink();
 
     }
 }
